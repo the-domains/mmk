@@ -1,0 +1,28 @@
+name: Michael Muck Kremtz
+favicon: null
+layout_spectrum: 0.5415102031547576
+typography_spectrum: 0.9113521908875555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010101'
+    - '#005184'
+    - '#0084b5'
+    - '#869479'
+    - '#705045'
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.25
+purpose: []
